@@ -1,4 +1,4 @@
-![logo](https://github.com/Uzairkhan12346/Uzair-Mtx-449/blob/main/Github%20Banner.png)
+![logo](https://github.com/a-uzair-memo-mtx/a-uzair-memo-mtx/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Uzair Rajput</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
