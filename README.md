@@ -31,8 +31,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Uzair Rajput "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Uzair Rajput " /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzair-mtx-449&show_icons=true&locale=en&layout=compact" alt="uzair-mtx-449" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzair-mtx-449&show_icons=true&locale=en&layout=compact" alt="a-uzair-memo-mtx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzair-mtx-449&show_icons=true&locale=en" alt="uzair-mtx-449" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzair-mtx-449&show_icons=true&locale=en" alt="a-uzair-memo-mtx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzair-mtx-449&" alt="uzair-mtx-449" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzair-mtx-449&" alt="a-uzair-memo-mtx" /></p>
